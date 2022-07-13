@@ -12,7 +12,6 @@ int a;
 int b;
 
 a = 0;
-  
 while (dest[a] != 0)
 {
 a++;
