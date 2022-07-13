@@ -17,10 +17,8 @@ while (dest[a] != 0)
 {
 a++;
 }
-  
 b = 0;
-  
- while (src[b] != 0 && b < n)
+while (src[b] != 0 && b < n)
 {
 dest[a] = src[b];
 a++;
