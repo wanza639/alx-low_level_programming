@@ -16,7 +16,7 @@ if (mult <= 9)
 {
 if (b != 0)
 {
-putchar(' ');
+_putchar(' ');
 }
 _putchar(mult + '0');
 }
