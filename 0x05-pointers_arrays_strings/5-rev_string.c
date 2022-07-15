@@ -10,6 +10,7 @@ int i;
 int j;
 int temp;
 int length;
+
 while (s[i] != 0)
 {
 i++;
